@@ -34,22 +34,22 @@ Full project report (PDF): https://drive.google.com/file/d/175fJiJsHYSm1At2kElAp
 This section presents key exploratory analyses on important numerical variables to understand customer characteristics and credit risk patterns.
 
 ### Loan Amount Distribution
-![Loan Amount Distribution](diagrams/loan_amnt_imp_histogram.png.png)
+![Loan Amount Distribution](Diagrams_2/loan_amnt_imp_histogram.png.png)
 
 > The histogram shows the distribution of loan amounts, indicating that most customers borrow relatively small to medium loan values, which is important for assessing exposure and risk concentration.
 
 ---
 
 ### Interest Rate Distribution
-![Interest Rate Distribution](diagrams/int_rate_imp.png)
+![Interest Rate Distribution](Diagrams_2/int_rate_imp.png)
 
 > Higher interest rates are more frequently associated with riskier customer segments, reflecting risk-based pricing strategies in lending decisions.
 
 ---
 
 ### Debt-to-Income (DTI) Distribution
-![DTI Distribution](diagrams/dti_imp_1.png)
-![DTI Distribution](diagrams/dti_imp_2.png)
+![DTI Distribution](Diagrams_2/dti_imp_1.png)
+![DTI Distribution](Diagrams_2/dti_imp_2.png)
 
 
 > Customers with higher DTI ratios tend to exhibit higher financial pressure, which can increase the likelihood of loan default.
@@ -57,49 +57,49 @@ This section presents key exploratory analyses on important numerical variables 
 ---
 
 ### FICO Score (Low Range) Distribution
-![FICO Low Range Distribution](diagrams/fico_range_low_imp_1.png)
+![FICO Low Range Distribution](Diagrams_2/fico_range_low_imp_1.png)
 
 > Lower FICO score ranges show higher risk concentration, confirming credit score as a critical factor in credit risk evaluation.
 
 ---
 
 ### FICO Score (High Range) Distribution
-![FICO High Range Distribution](diagrams/fico_range_high_imp_2.png)
+![FICO High Range Distribution](Diagrams_2/fico_range_high_imp_2.png)
 
 > Customers with higher FICO scores are more concentrated in lower-risk segments, supporting their use in credit approval and risk segmentation.
 ### FICO Score – Credit Risk Assessment Insight
-![FICO Credit Risk Insight](diagrams/fico_nhan_xet.png)
+![FICO Credit Risk Insight](Diagrams_2/fico_nhan_xet.png)
 
 > This visualization highlights the relationship between FICO score ranges and default risk. Customers with lower FICO scores show significantly higher default rates, reinforcing the importance of credit scoring in loan approval, risk segmentation, and pricing decisions.
 
 ### Interest Rate Distribution – Boxplot
-![Interest Rate Boxplot](diagrams/boxplot_int_rate_imp.png)
+![Interest Rate Boxplot](Diagrams_2/boxplot_int_rate_imp.png)
 
 > The boxplot highlights the distribution and outliers of interest rates. Loans with extremely high interest rates are potential high-risk cases, reflecting borrowers with weaker credit profiles and higher default probability.
 
 ---
 
 ### Debt-to-Income (DTI) Distribution – Boxplot
-![DTI Boxplot](diagrams/boxplot_dti.png)
+![DTI Boxplot](Diagrams_2/boxplot_dti.png)
 
 > This boxplot shows the spread and outliers of customers' debt-to-income ratios. High DTI outliers indicate customers under significant financial stress, which is a key risk indicator in credit approval and risk management decisions.
 
 ### Default Distribution – Count Bar Chart
-![Default Count Bar Chart](diagrams/Count Bar Chart.png)
+![Default Count Bar Chart](Diagrams_2/Count_Bar_Chart.png)
 
 > This chart compares the number of default and non-default loans, providing an overall view of class distribution. Understanding this imbalance is essential for risk assessment and model evaluation.
 
 ---
 
 ### Default Rate Comparison – Mean Bar Chart
-![Default Mean Bar Chart](diagrams/Mean Bar Chart.png)
+![Default Mean Bar Chart](Diagrams_2/Mean_Bar_Chart.png)
 
 > The mean bar chart highlights the average default rate across customer segments, helping identify high-risk groups and supporting data-driven credit approval and risk segmentation strategies.
 
 ---
 
 ### FICO Score Comparison Across Risk Groups
-![FICO Comparison Bar Chart](so sanh fico.png)
+![FICO Comparison Bar Chart](Diagrams_2/so_sanh_fico.png)
 
 > This comparison shows significant differences in FICO scores between default and non-default customers, confirming FICO score as one of the most influential factors in credit risk decision-making.
 
