@@ -23,9 +23,6 @@ Lending Club dataset with over 1.3 million loan records, including customer info
 - Credit risk is strongly influenced by interest rate, credit score, income, and DTI.
 - Data-driven analysis helps improve loan approval accuracy and reduce potential default losses.
 
-### Tools & Technologies
-Python, Pandas, NumPy, Scikit-learn, SQL (basic), HTML (basic), Data Visualization
-
 ### Project Documentation
 Full project report (PDF): https://drive.google.com/file/d/175fJiJsHYSm1At2kElApw-tQOxKlZFaA/view?usp=sharing
 
@@ -102,5 +99,13 @@ This section presents key exploratory analyses on important numerical variables 
 ![FICO Comparison Bar Chart](diagrams_2/so_sanh_fico.png)
 
 > This comparison shows significant differences in FICO scores between default and non-default customers, confirming FICO score as one of the most influential factors in credit risk decision-making.
+
+## Tools & Technologies
+Python, Pandas, NumPy, Scikit-learn, SQL (basic), HTML (basic), Data Visualization
+
+## Author
+- Name: HaThuong
+
+
 
 
