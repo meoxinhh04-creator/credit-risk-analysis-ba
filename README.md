@@ -26,3 +26,7 @@ Lending Club dataset with over 1.3 million loan records, including customer info
 ### Tools & Technologies
 Python, Pandas, NumPy, Scikit-learn, SQL (basic), HTML (basic), Data Visualization
 
+### Project Documentation
+Full project report (PDF): https://drive.google.com/file/d/175fJiJsHYSm1At2kElApw-tQOxKlZFaA/view?usp=sharing
+
+
